@@ -1,0 +1,34 @@
+---
+comprehensive_github_profile_analysis_with_actionable_suggestions:
+  description: Analyze the GitHub profile at {github_url} comprehensively by examining
+    the profile overview, bio, repositories, contributions, pinned projects, README,
+    and overall activity. Evaluate profile completeness, professional branding, repository
+    quality, code organization, documentation quality, commit consistency, project
+    diversity, open-source contributions, technical skill demonstration, and recruiter
+    attractiveness. After the analysis, provide specific, actionable suggestions and
+    next steps for immediate improvement.
+  expected_output: "A comprehensive GitHub profile analysis report in the following
+    markdown format:\n\n# GitHub Profile Analysis\n\n## Overall Score\nScore: X/10\n\n##
+    Strengths\n- Point 1 (with specific examples from profile)\n- Point 2 (with specific
+    examples from profile)\n- Point 3 (with specific examples from profile)\n\n##
+    Areas for Improvement\n- Point 1 (with specific examples from profile)\n- Point
+    2 (with specific examples from profile)\n- Point 3 (with specific examples from
+    profile)\n\n## Repository Review\n(Repository-wise feedback with specific analysis
+    of each major repository)\n\n## Recruiter Perspective\n(What a recruiter would
+    think after viewing the profile - honest assessment)\n\n## Recommended Next Projects\n1.
+    Specific project recommendation based on current skill gaps\n2. Project to showcase
+    missing technologies\n3. Portfolio enhancement project\n\n## Action Plan (30 Days)\nWeek
+    1: Specific actionable items\nWeek 2: Specific actionable items  \nWeek 3: Specific
+    actionable items\nWeek 4: Specific actionable items\n\n## Professional Readiness
+    Ratings\n- Beginner Developer: X/10\n- Internship Readiness: X/10\n- Junior Developer
+    Readiness: X/10\n- Open Source Presence: X/10\n- Overall Professionalism: X/10\n\n##
+    Final Verdict\n(Comprehensive summary with hiring recommendation and career level
+    assessment)\n\n## IMMEDIATE ACTION SUGGESTIONS\n\n### \U0001F6A8 Critical Priority
+    (Do This Week)\n- Specific actionable item with exact steps\n- Another critical
+    improvement with clear instructions\n\n### ⚡ High Priority (Do This Month)\n-
+    Important improvements with detailed steps\n- Skills to focus on with specific
+    resources\n\n### \U0001F4C8 Long-term Growth (Next 3 Months)\n- Strategic improvements
+    for career advancement\n- Advanced projects and technologies to explore\n\nAfter
+    providing the analysis, automatically suggest specific resources, tools, or next
+    steps the user should take to improve their GitHub profile immediately."
+  agent: senior_github_profile_analyst_and_technical_recruiter
